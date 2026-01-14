@@ -3,7 +3,8 @@ A resource-efficient adaptation of the RAGDiffusion framework for Google Colab, 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ClaudiaCornacchia/Retrieval-Augmented-Garment-Generation-with-Diffusion-Models/blob/main/Retrieval-Augmented%20Garment%20Generation%20with%20Diffusion%20Models.ipynb)
 
-**Author:** Claudia Cornacchia
+**Author:** Claudia Cornacchia   
+**Context:** Neural Networks Course / Master Degree
 
 ## Overview
 This project is a replication and adaptation of the **RAGDiffusion** framework [1], designed to function within the computational constraints of **Google Colab**.
